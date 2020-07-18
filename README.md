@@ -29,4 +29,3 @@ Akan name	The corresponding Akan name for the user eg Kofi
 Known Bugs
 Saturday 13th 2019 returns a value of -0.449 which causes the application to crash
 License
-MIT License &copy 2019 Victor
