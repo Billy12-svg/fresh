@@ -50,4 +50,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ### Link to live site
 
-#### LICENCE
+#### LICENCE {MIT}(https://github.com/Billy12-svg/fresh/blob/master/LICENCE)
